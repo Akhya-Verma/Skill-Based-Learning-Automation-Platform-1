@@ -9,10 +9,9 @@ certifi==2026.2.25
 charset-normalizer==3.4.5
 click==8.1.8
 cloudpathlib==0.16.0
-colorama==0.4.6
 confection==0.1.5
 cymem==2.0.13
-en-core-web-md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.7.1/en_core_web_md-3.7.1-py3-none-any.whl#sha256=6a0f857a2b4d219c6fa17d455f82430b365bf53171a2d919b9376e5dc9be032e
+en-core-web-md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.7.1/en_core_web_md-3.7.1-py3-none-any.whl
 filelock==3.19.1
 fsspec==2025.10.0
 gitdb==4.0.12
