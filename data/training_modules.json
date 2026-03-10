@@ -1,0 +1,227 @@
+[
+  {
+    "skill": "Python",
+    "title": "Python for Everybody",
+    "provider": "Coursera",
+    "url": "https://coursera.org/specializations/python",
+    "hours": 40,
+    "difficulty": "beginner",
+    "description": "Complete Python programming from scratch."
+  },
+  {
+    "skill": "Python",
+    "title": "Advanced Python Programming",
+    "provider": "Udemy",
+    "url": "https://udemy.com/course/advanced-python",
+    "hours": 20,
+    "difficulty": "advanced",
+    "description": "Decorators, async, and performance patterns."
+  },
+  {
+    "skill": "Machine Learning",
+    "title": "Machine Learning Specialization",
+    "provider": "Coursera",
+    "url": "https://coursera.org/specializations/machine-learning-introduction",
+    "hours": 60,
+    "difficulty": "intermediate",
+    "description": "Andrew Ng's foundational ML course."
+  },
+  {
+    "skill": "Machine Learning",
+    "title": "Hands-On ML with Scikit-Learn",
+    "provider": "Internal",
+    "url": "https://internal.lms/ml-sklearn",
+    "hours": 25,
+    "difficulty": "intermediate",
+    "description": "Practical sklearn pipeline building."
+  },
+  {
+    "skill": "Deep Learning",
+    "title": "Deep Learning Specialization",
+    "provider": "Coursera",
+    "url": "https://coursera.org/specializations/deep-learning",
+    "hours": 80,
+    "difficulty": "advanced",
+    "description": "CNNs, RNNs, and transformers with TensorFlow."
+  },
+  {
+    "skill": "SQL",
+    "title": "SQL for Data Science",
+    "provider": "Coursera",
+    "url": "https://coursera.org/learn/sql-for-data-science",
+    "hours": 20,
+    "difficulty": "beginner",
+    "description": "SQL fundamentals for querying databases."
+  },
+  {
+    "skill": "SQL",
+    "title": "Advanced SQL Mastery",
+    "provider": "Udemy",
+    "url": "https://udemy.com/course/advanced-sql",
+    "hours": 15,
+    "difficulty": "advanced",
+    "description": "Window functions, CTEs, query optimisation."
+  },
+  {
+    "skill": "Docker",
+    "title": "Docker Mastery",
+    "provider": "Udemy",
+    "url": "https://udemy.com/course/docker-mastery",
+    "hours": 18,
+    "difficulty": "intermediate",
+    "description": "Containers, images, and Docker Compose."
+  },
+  {
+    "skill": "Kubernetes",
+    "title": "Kubernetes for Developers",
+    "provider": "Linux Foundation",
+    "url": "https://training.linuxfoundation.org/ckad",
+    "hours": 35,
+    "difficulty": "advanced",
+    "description": "CKAD exam prep and Kubernetes internals."
+  },
+  {
+    "skill": "AWS",
+    "title": "AWS Solutions Architect Associate",
+    "provider": "AWS",
+    "url": "https://aws.amazon.com/training/saa",
+    "hours": 50,
+    "difficulty": "intermediate",
+    "description": "Core AWS services and architecture patterns."
+  },
+  {
+    "skill": "Azure",
+    "title": "Azure Fundamentals AZ-900",
+    "provider": "Microsoft",
+    "url": "https://learn.microsoft.com/az-900",
+    "hours": 20,
+    "difficulty": "beginner",
+    "description": "Cloud concepts and core Azure services."
+  },
+  {
+    "skill": "JavaScript",
+    "title": "The Complete JavaScript Course",
+    "provider": "Udemy",
+    "url": "https://udemy.com/course/the-complete-javascript-course",
+    "hours": 65,
+    "difficulty": "beginner",
+    "description": "Modern JS including ES6+ and async patterns."
+  },
+  {
+    "skill": "React",
+    "title": "React - The Complete Guide",
+    "provider": "Udemy",
+    "url": "https://udemy.com/course/react-the-complete-guide",
+    "hours": 48,
+    "difficulty": "intermediate",
+    "description": "Hooks, Redux, and React Router."
+  },
+  {
+    "skill": "Git",
+    "title": "Git and GitHub Bootcamp",
+    "provider": "Udemy",
+    "url": "https://udemy.com/course/git-and-github-bootcamp",
+    "hours": 8,
+    "difficulty": "beginner",
+    "description": "Version control, branching, and collaboration."
+  },
+  {
+    "skill": "CI/CD",
+    "title": "DevOps CI/CD with GitHub Actions",
+    "provider": "Internal",
+    "url": "https://internal.lms/cicd-actions",
+    "hours": 12,
+    "difficulty": "intermediate",
+    "description": "Build pipelines and deployment workflows."
+  },
+  {
+    "skill": "Terraform",
+    "title": "Terraform Associate Certification",
+    "provider": "HashiCorp",
+    "url": "https://developer.hashicorp.com/terraform/tutorials",
+    "hours": 22,
+    "difficulty": "intermediate",
+    "description": "Infrastructure as code with Terraform."
+  },
+  {
+    "skill": "NLP",
+    "title": "NLP Specialization",
+    "provider": "Coursera",
+    "url": "https://coursera.org/specializations/natural-language-processing",
+    "hours": 60,
+    "difficulty": "advanced",
+    "description": "Sequence models, attention, and transformers."
+  },
+  {
+    "skill": "Data Analysis",
+    "title": "Data Analysis with Python",
+    "provider": "Coursera",
+    "url": "https://coursera.org/learn/data-analysis-with-python",
+    "hours": 20,
+    "difficulty": "beginner",
+    "description": "Pandas, NumPy, and Matplotlib for data analysis."
+  },
+  {
+    "skill": "Power BI",
+    "title": "Microsoft Power BI Desktop",
+    "provider": "Udemy",
+    "url": "https://udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop",
+    "hours": 18,
+    "difficulty": "beginner",
+    "description": "Dashboards and data modeling in Power BI."
+  },
+  {
+    "skill": "Statistics",
+    "title": "Statistics with Python",
+    "provider": "Coursera",
+    "url": "https://coursera.org/specializations/statistics-with-python",
+    "hours": 36,
+    "difficulty": "intermediate",
+    "description": "Probability, hypothesis testing, and regression."
+  },
+  {
+    "skill": "FastAPI",
+    "title": "FastAPI - The Complete Course",
+    "provider": "Udemy",
+    "url": "https://udemy.com/course/fastapi-the-complete-course",
+    "hours": 12,
+    "difficulty": "intermediate",
+    "description": "REST APIs with FastAPI and async Python."
+  },
+  {
+    "skill": "Django",
+    "title": "Python Django - The Practical Guide",
+    "provider": "Udemy",
+    "url": "https://udemy.com/course/python-django-the-practical-guide",
+    "hours": 20,
+    "difficulty": "intermediate",
+    "description": "Full-stack web dev with Django."
+  },
+  {
+    "skill": "Agile",
+    "title": "Agile and Scrum Fundamentals",
+    "provider": "Internal",
+    "url": "https://internal.lms/agile-scrum",
+    "hours": 8,
+    "difficulty": "beginner",
+    "description": "Scrum ceremonies, sprints, and agile mindset."
+  },
+  {
+    "skill": "Spark",
+    "title": "Apache Spark with Python",
+    "provider": "Udemy",
+    "url": "https://udemy.com/course/apache-spark-with-python-big-data",
+    "hours": 20,
+    "difficulty": "intermediate",
+    "description": "PySpark, DataFrames, and Spark ML."
+  },
+  {
+    "skill": "Kafka",
+    "title": "Apache Kafka for Beginners",
+    "provider": "Udemy",
+    "url": "https://udemy.com/course/apache-kafka",
+    "hours": 10,
+    "difficulty": "intermediate",
+    "description": "Event streaming fundamentals and patterns."
+  }
+]

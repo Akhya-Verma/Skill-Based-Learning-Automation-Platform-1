@@ -1,0 +1,64 @@
+[
+  {
+    "title": "Senior Data Scientist",
+    "department": "Data & Analytics",
+    "description": "Lead data science projects and build ML models.",
+    "required_skills": [
+      "Python",
+      "Machine Learning",
+      "SQL",
+      "Statistics",
+      "Pandas",
+      "Scikit-learn"
+    ],
+    "optional_skills": [
+      "Deep Learning",
+      "Spark",
+      "AWS",
+      "Docker",
+      "Tableau",
+      "NLP"
+    ]
+  },
+  {
+    "title": "Backend Engineer",
+    "department": "Engineering",
+    "description": "Design and build scalable REST APIs and microservices.",
+    "required_skills": ["Python", "FastAPI", "SQL", "Docker", "Git"],
+    "optional_skills": ["Kubernetes", "Kafka", "AWS", "Terraform", "CI/CD"]
+  },
+  {
+    "title": "Full Stack Developer",
+    "department": "Engineering",
+    "description": "Build end-to-end web applications.",
+    "required_skills": ["JavaScript", "React", "Python", "SQL", "Git"],
+    "optional_skills": ["TypeScript", "Docker", "AWS", "Django"]
+  },
+  {
+    "title": "DevOps Engineer",
+    "department": "Infrastructure",
+    "description": "Manage cloud infrastructure and CI/CD pipelines.",
+    "required_skills": [
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "Terraform",
+      "CI/CD",
+      "Git"
+    ],
+    "optional_skills": ["Azure", "GCP", "Ansible", "Python", "Linux"]
+  },
+  {
+    "title": "ML Engineer",
+    "department": "AI / ML",
+    "description": "Productionise machine learning models at scale.",
+    "required_skills": ["Python", "Machine Learning", "Docker", "SQL", "Git"],
+    "optional_skills": [
+      "Deep Learning",
+      "Spark",
+      "Kubernetes",
+      "AWS",
+      "FastAPI"
+    ]
+  }
+]
